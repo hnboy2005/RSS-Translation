@@ -12,3 +12,4 @@
 ## 已转换翻译源
 
  - source001 [https://www.scotthyoung.com/blog/feed/](https://www.scotthyoung.com/blog/feed/) -> [Scott_H_Young.xml](rss/Scott_H_Young.xml)
+ - source002 [http://www.economist.com/feeds/print-sections/77729/china.xml](http://www.economist.com/feeds/print-sections/77729/china.xml) -> [TheEconomistChina.xml](rss/TheEconomistChina.xml)
